@@ -1,0 +1,69 @@
+<RCC>
+    <qresource prefix="/UI">
+        <file>photo/machineImage/machineImage_CP-01.png</file>
+        <file>photo/machineImage/machineImage_CR-5 Pro.png</file>
+        <file>photo/machineImage/machineImage_CR-5 Pro_H.png</file>
+        <file>photo/machineImage/machineImage_CR-6 Max.png</file>
+        <file>photo/machineImage/machineImage_CR-6 SE.png</file>
+        <file>photo/machineImage/machineImage_CR-10 Max.png</file>
+        <file>photo/machineImage/machineImage_CR-10 S4.png</file>
+        <file>photo/machineImage/machineImage_CR-10 S5.png</file>
+        <file>photo/machineImage/machineImage_CR-10 SE.png</file>
+        <file>photo/machineImage/machineImage_CR-10 Smart Pro.png</file>
+        <file>photo/machineImage/machineImage_CR-10 Smart.png</file>
+        <file>photo/machineImage/machineImage_CR-10 V2.png</file>
+        <file>photo/machineImage/machineImage_CR-10 V3.png</file>
+        <file>photo/machineImage/machineImage_CR-10.png</file>
+        <file>photo/machineImage/machineImage_CR-10S Pro V2.png</file>
+        <file>photo/machineImage/machineImage_CR-10S Pro.png</file>
+        <file>photo/machineImage/machineImage_CR-30.png</file>
+        <file>photo/machineImage/machineImage_CR-100.png</file>
+        <file>photo/machineImage/machineImage_CR-200B Pro.png</file>
+        <file>photo/machineImage/machineImage_CR-200B.png</file>
+        <file>photo/machineImage/machineImage_CR-1000 Pro.png</file>
+        <file>photo/machineImage/machineImage_CR-1000.png</file>
+        <file>photo/machineImage/machineImage_CR-2020.png</file>
+        <file>photo/machineImage/machineImage_CR-2526.png</file>
+        <file>photo/machineImage/machineImage_CR-3040 Pro.png</file>
+        <file>photo/machineImage/machineImage_CR-3040D.png</file>
+        <file>photo/machineImage/machineImage_CR-5060 Pro.png</file>
+        <file>photo/machineImage/machineImage_CR-6080.png</file>
+        <file>photo/machineImage/machineImage_CR-6080S.png</file>
+        <file>photo/machineImage/machineImage_CR-M4.png</file>
+        <file>photo/machineImage/machineImage_CR-X Pro.png</file>
+        <file>photo/machineImage/machineImage_CT-228.png</file>
+        <file>photo/machineImage/machineImage_CT-300.png</file>
+        <file>photo/machineImage/machineImage_CT-300D.png</file>
+        <file>photo/machineImage/machineImage_CT-400D.png</file>
+        <file>photo/machineImage/machineImage_Ender-2 Pro.png</file>
+        <file>photo/machineImage/machineImage_Ender-2S.png</file>
+        <file>photo/machineImage/machineImage_Ender-3 Max Neo.png</file>
+        <file>photo/machineImage/machineImage_Ender-3 Max.png</file>
+        <file>photo/machineImage/machineImage_Ender-3 Neo.png</file>
+        <file>photo/machineImage/machineImage_Ender-3 Pro.png</file>
+        <file>photo/machineImage/machineImage_Ender-3 S1 Laser.png</file>
+        <file>photo/machineImage/machineImage_Ender-3 S1 Plus.png</file>
+        <file>photo/machineImage/machineImage_Ender-3 S1 Pro.png</file>
+        <file>photo/machineImage/machineImage_Ender-3 S1.png</file>
+        <file>photo/machineImage/machineImage_Ender-3 V2 Neo.png</file>
+        <file>photo/machineImage/machineImage_Ender-3 V2.png</file>
+        <file>photo/machineImage/machineImage_Ender-3 V3 SE.png</file>
+        <file>photo/machineImage/machineImage_Ender-3.png</file>
+        <file>photo/machineImage/machineImage_Ender-5 Plus.png</file>
+        <file>photo/machineImage/machineImage_Ender-5 Pro.png</file>
+        <file>photo/machineImage/machineImage_Ender-5 S1.png</file>
+        <file>photo/machineImage/machineImage_Ender-6.png</file>
+        <file>photo/machineImage/machineImage_Ender-7.png</file>
+        <file>photo/machineImage/machineImage_K1 Max.png</file>
+        <file>photo/machineImage/machineImage_K1.png</file>
+        <file>photo/machineImage/machineImage_Sermoon D1.png</file>
+        <file>photo/machineImage/machineImage_Sermoon D3 Pro.png</file>
+        <file>photo/machineImage/machineImage_Sermoon D3.png</file>
+        <file>photo/machineImage/machineImage_Sermoon M1.png</file>
+        <file>photo/machineImage/machineImage_Sermoon M500.png</file>
+        <file>photo/machineImage/machineImage_Sermoon V1 Pro.png</file>
+        <file>photo/machineImage/machineImage_Sermoon V1.png</file>
+        <file>photo/machineImage/machineImage_Sermoon V2.png</file>
+    </qresource>
+    <qresource prefix="/"/>
+</RCC>
